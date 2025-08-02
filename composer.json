@@ -1,5 +1,5 @@
 {
-    "name": "tinect/matomo",
+    "name": "schlaile/tinect-matomo",
     "version": "4.5.1",
     "description": "Matomo plugin for shopware 6",
     "type": "shopware-platform-plugin",
