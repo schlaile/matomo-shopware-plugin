@@ -4,6 +4,8 @@
     "description": "Matomo plugin for shopware 6",
     "type": "shopware-platform-plugin",
     "license": "MIT",
+    "minimum-stability": "stable",
+    "prefer-stable": true,
     "autoload": {
         "psr-4": {
             "Tinect\\Matomo\\": "src/"
